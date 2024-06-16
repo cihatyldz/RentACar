@@ -1,3 +1,3 @@
 ## Clean Architecture && CQRS
 
-### Application , Domain , Infrastructure , Persistence , WebApi Katmanlarýnýn Oluþturulmasý
+### Application , Domain , Infrastructure , Persistence , WebApi Katmanlarinin Olusturulmasi
